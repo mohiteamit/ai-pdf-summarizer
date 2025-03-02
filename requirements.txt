@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+fastapi
+uvicorn
+openai
+pydantic
+python-dotenv
+pymupdf
+python-multipart==0.0.12
